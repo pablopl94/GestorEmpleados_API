@@ -1,4 +1,4 @@
-# 🚀 Gestor de Empleados - Aplicación Completa (Angular + Spring Boot + MySQL)
+Gestor de Empleados - Aplicación Completa (Angular + Spring Boot + MySQL)
 
 Este es un proyecto completo desarrollado para practicar el desarrollo de aplicaciones full stack con **Angular 19**, **Spring Boot** y **MySQL**. Incluye una API REST para la gestión de empleados y una aplicación frontend para la interacción con los datos.
 
