@@ -151,7 +151,7 @@ Ejemplo de errores controlados:
 
 ## 👨‍💻 Autor
 **Pablo Prieto López**  
-📧 Contacto: [pablopl94@gmail.com](mailto:pablopl94@gmail.com)  
+📧 Contacto: [pablopl94@gmail.com](mailto:pabloprietolopez94@outlook.es)  
 🔗 GitHub: [github.com/pablopl94](https://github.com/pablopl94)
 
 ---
